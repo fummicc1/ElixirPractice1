@@ -37,4 +37,7 @@ iex(3)> flush()
 ```elixir
 iex(1)> <代入先> = spawn <モジュール>, <関数>, <引数の配列>
 ```
-5. 
+
+
+# 参考
+- https://employment.en-japan.com/engineerhub/entry/2017/06/12/110000#macOSにElixirをインストールする
